@@ -1,0 +1,19 @@
+2>0>8>7>!0
+0>0>6>0>!5
+0
+0
+0
+3
+10>9>8>7>6>5>4>3>2>1
+P2
+2
+1
+0
+0
+0
+OG
+Player 1 Inbox:
+Player 2 Inbox:
+Player 3 Inbox:
+Player 4 Inbox:
+Player 5 Inbox:

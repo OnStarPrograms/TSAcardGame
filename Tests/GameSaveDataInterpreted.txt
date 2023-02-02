@@ -1,0 +1,13 @@
+First players hand +chosen card
+SecondPlayers hand +chosen card
+Third players hand +chosen card
+fourthPlayers hand +chosen card
+fifth Players hand +chosen card
+UsedCards
+CardOrder
+Players Turn
+player1 fighting
+player2 fighting
+player3 fighting
+player4 fighting
+player4 fighting

@@ -1,0 +1,13 @@
+each playe 5 CARDS
+
+1-10
+king(highest)
+joker(Switch)
+ace(lowest)
+
+each card has a losing attribute
+	discard 2 cards RANDOMLY
+	discard one card of your choosing
+higher numeric card = lower punishment
+lower  card = higher punishment
+winning card discards
